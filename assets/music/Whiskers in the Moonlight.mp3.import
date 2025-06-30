@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ddqoyrxvi3shk"
+path="res://.godot/imported/Whiskers in the Moonlight.mp3-f5b9b2fd737d1a7f1510286b5342b0ac.mp3str"
+
+[deps]
+
+source_file="res://assets/music/Whiskers in the Moonlight.mp3"
+dest_files=["res://.godot/imported/Whiskers in the Moonlight.mp3-f5b9b2fd737d1a7f1510286b5342b0ac.mp3str"]
+
+[params]
+
+loop=true
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
